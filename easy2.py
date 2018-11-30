@@ -26,6 +26,10 @@ def shift(phrase, offset):
 
 
 def main():
+    if len(sys.argv) == 1:
+        print("Usage: easy2.py <encoded text to decode>")
+        return
+    
     encoded = []
     for arg in sys.argv[1:]:
         encoded.append(arg)
