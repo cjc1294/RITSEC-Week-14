@@ -1,2 +1,2 @@
-# RITSEC-Week-11
-RITSEC Week 11 scripting challenges
+# RITSEC-Week-14
+RITSEC Week 14 scripting challenges
